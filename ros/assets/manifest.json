@@ -1,7 +1,7 @@
 {
   "name": "Roclahy.com",
   "short_name": "Roclahy",
-  "description": "In this blog, I share articles and latest news related to tech",
+  "description": "Explora todo sobre tecnología con roclahy.com. Instala nuestra PWA y accede rápidamente a artículos variados desde tu dispositivo. ¡Lee más con un solo clic!",
   "id": "roclahy",
   "theme_color": "#F3F1E2",
   "background_color": "#F3F1E2",
@@ -64,7 +64,7 @@
       "form_factor": "narrow"
     },
     {
-      "src": "/assets/shot5.png",
+      "src": "shot5.png",
       "sizes": "1280x676",
       "type": "image/png",
       "form_factor": "wide"
