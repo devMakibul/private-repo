@@ -8,8 +8,8 @@
   "display": "standalone",
   "orientation": "portrait",
   "dir": "ltr",
-  "scope": "https://roclahy.com",
-  "start_url": "https://roclahy.com/?source=pwa",
+  "scope": "/",
+  "start_url": "/?source=pwa",
   "lang": "es",
   "categories": [
     "education",
@@ -82,22 +82,10 @@
       "name": "Telegram Proxy",
       "short_name": "TG Proxy",
       "description": "Get Telegram proxies for free",
-      "url": "https://roclahy.com/p/telegram-proxy.html",
+      "url": "/p/telegram-proxy.html",
       "icons": [
         {
           "src": "proxy_96.png",
-          "sizes": "96x96"
-        }
-      ]
-    },
-    {
-      "name": "Roclahy Tienda",
-      "short_name": "Tienda",
-      "description": "Store",
-      "url": "https://tienda.roclahy.com/",
-      "icons": [
-        {
-          "src": "tienda_96.png",
           "sizes": "96x96"
         }
       ]
