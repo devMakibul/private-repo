@@ -82,7 +82,7 @@
       "name": "Telegram Proxy",
       "short_name": "TG Proxy",
       "description": "Get Telegram proxies for free",
-      "url": "/p/telegram-proxy.html",
+      "url": "https://www.roclahy.com/p/telegram-proxy.html",
       "icons": [
         {
           "src": "proxy_96.png",
